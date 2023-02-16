@@ -56,4 +56,3 @@ Proactive team player with good communication skills, open to new challenges and
 
 
 
-
