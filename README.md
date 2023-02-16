@@ -45,7 +45,7 @@ Proactive team player with good communication skills, open to new challenges and
 ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=haniehmhf&theme=calm&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=haniehmhf&theme=onedark)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haniehmhf&show_icons=true&theme=noctis_minimus&card_width=500)](https://github.com/anuraghazra/github-readme-stats)
 
 
