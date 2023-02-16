@@ -42,9 +42,9 @@ Proactive team player with good communication skills, open to new challenges and
 ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
 
 ### Top Repos
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=haniehmhf&repo=poll-app&show_icons=true&theme=transparent&show_icons=true)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=haniehmhf&repo=poll-app&show_icons=true&theme=transparent&show_icons=true&card_width=550)
 ](https://github.com/haniehmhf/poll-app)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=haniehmhf&repo=recipe-shopping&show_icons=true&theme=transparent&show_icons=true)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=haniehmhf&repo=recipe-shopping&show_icons=true&theme=transparent&show_icons=true&card_width=550)
 ](https://github.com/haniehmhf/recipe-shopping)
 
 ### :fire: My Stats 
