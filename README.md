@@ -44,7 +44,7 @@ Proactive team player with good communication skills, open to new challenges and
 ![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql)
 ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
 
-### My Top Repos
+### Top Repos
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=haniehmhf&repo=poll-app&show_icons=true&theme=transparent&show_icons=true)
 ](https://github.com/haniehmhf/poll-app)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=haniehmhf&repo=recipe-shopping&show_icons=true&theme=transparent&show_icons=true)
