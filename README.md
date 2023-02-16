@@ -44,6 +44,9 @@ Proactive team player with good communication skills, open to new challenges and
 ![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql)
 ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
 
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=haniehmhf&theme=dark&background=000000)](https://git.io/streak-stats)
+
 
 
 
