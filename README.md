@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?text=Welcome%To%My%GitHub!&type=rect&textBg=true)
+![header](https://capsule-render.vercel.app/api?text=Welcome%To%My%GitHub!&type=rect)
 👋 Hi, I’m Haniyeh Mahboubifar
 A passionate front-end developer who loves coding and believes it is the best way of getting rid of all life stresses.
 having 4+ years of experience in working complex scalable websites using Angular Framework collaborating with other specialists to define data interfaces, as well as experience working with designers to bring the user experience to life.
