@@ -8,18 +8,13 @@
 
 - :rowboat:	I love traveling, reading books, watching movies and playing with my cat Miya.
 
-
+contact with me by: [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hanimhf)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](hanieh.mahboobifar20@gmail.com)
+[![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](hanimf@outlook.com)
 
 ## :space_invader: My Experience
 having 4+ years of experience in working complex scalable websites using Angular and React Framework collaborating with other specialists to define data interfaces, as well as experience working with designers to bring the user experience to life.
 Proactive team player with good communication skills, open to new challenges and sharing experiences. 
-
-
-
-## Contact With Me
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hanimhf)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](hanieh.mahboobifar20@gmail.com)
-[![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](hanimf@outlook.com)
 
 ## Languages and Tools
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
