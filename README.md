@@ -4,4 +4,5 @@ having 4+ years of experience in working complex scalable websites using Angular
 Proactive team player with good communication skills, open to new challenges and sharing experiences. 
 Has professional work with TypeScript, JavaScript, HTML, CSS, Rxjs, NGrx, and Angular 8+.
 Has Experience with Reactjs and Redux.
+
 Connect with me on LinkedIn: [LinkedIn](https://www.linkedin.com/in/hanimhf)
