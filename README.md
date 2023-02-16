@@ -5,4 +5,4 @@ Proactive team player with good communication skills, open to new challenges and
 Has professional work with TypeScript, JavaScript, HTML, CSS, Rxjs, NGrx, and Angular 8+.
 Has Experience with Reactjs and Redux.
 
-Connect with me on LinkedIn: [LinkedIn](https://www.linkedin.com/in/hanimhf)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hanimhf)
