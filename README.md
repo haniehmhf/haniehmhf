@@ -18,12 +18,6 @@ Reaching me by:
 having 4+ years of experience in working complex scalable websites using Angular and React Frameworks. collaborating with other specialists to define data interfaces, as well as experience working with designers to bring the user experience to life.
 Proactive team player with good communication skills, open to new challenges and sharing experiences. 
 
-### Top Repos
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=haniehmhf&repo=poll-app&show_icons=true&theme=transparent&show_icons=true&card_width=900)
-](https://github.com/haniehmhf/poll-app)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=haniehmhf&repo=recipe-shopping&show_icons=true&theme=transparent&show_icons=true&card_width=900)
-](https://github.com/haniehmhf/recipe-shopping)
-
 ### :fire: My Stats 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haniehmhf&show_icons=true&theme=transparent&card_width=1000)](https://github.com/anuraghazra/github-readme-stats)
 ![snake gif](https://github.com/haniehmhf/haniehmhf/blob/output/github-contribution-grid-snake.svg)
