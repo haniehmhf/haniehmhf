@@ -46,7 +46,7 @@ Proactive team player with good communication skills, open to new challenges and
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=haniehmhf&theme=dark&background=000000)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haniehmhf)](https://github.com/haniehmhf/github-readme-stats)
 
 
 
