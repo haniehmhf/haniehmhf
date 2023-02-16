@@ -46,7 +46,7 @@ Proactive team player with good communication skills, open to new challenges and
 
 ### :fire: My Stats :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haniehmhf&show_icons=true&theme=noctis_minimus&card_width=1000)](https://github.com/anuraghazra/github-readme-stats)
-![snake gif](https://github.com/haniehmhf/haniehmhf/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/haniehmhf/haniehmhf/blob/output/github-contribution-grid-snake.svg)
 
 
 
