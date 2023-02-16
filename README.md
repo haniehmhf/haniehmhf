@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?text=Welcome%To%My%GitHub!&type=rect&theme=radical)
+![header](https://capsule-render.vercel.app/api?text=Welcome%To%My%GitHub!&type=rect&theme=radical&animation=blinking)
 
 👋 Hi, I’m Haniyeh Mahboubifar
 A passionate front-end developer who loves coding and believes it is the best way of getting rid of all life stresses.
