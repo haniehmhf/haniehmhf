@@ -15,7 +15,7 @@ Reaching me by:
 [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](hanimf@outlook.com)
 
 ## :space_invader: My Experience
-having 4+ years of experience in working complex scalable websites using Angular and React Framework collaborating with other specialists to define data interfaces, as well as experience working with designers to bring the user experience to life.
+having 4+ years of experience in working complex scalable websites using Angular and React Frameworks. collaborating with other specialists to define data interfaces, as well as experience working with designers to bring the user experience to life.
 Proactive team player with good communication skills, open to new challenges and sharing experiences. 
 
 ## Languages and Tools
